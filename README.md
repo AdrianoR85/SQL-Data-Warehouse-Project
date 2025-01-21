@@ -21,6 +21,11 @@ Developed a modern data warehouse using SQL Server to consolidate sales data, en
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
+#### ⚙️Technologies
+- **SQL Server 2022**: A relational database management system developed by Microsoft.
+- **SSMS v20.2**: SQL Server Management Studio, an integrated environment for managing SQL infrastructure
+- **Nation**: A cloud-based productivity and collaboration tool that allows users to create notes, tasks, wikis, and databases.
+---
 
 ### BI: Analytics & Reporting (Data Analytics)
 
@@ -33,4 +38,4 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ## 🛡️License
-This project is 
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
