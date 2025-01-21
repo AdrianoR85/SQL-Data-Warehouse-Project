@@ -1,2 +1,2 @@
 # SQL-Data-Warehouse-Project
-Building a modern data warehouse with SQL Server, including ETL process, data modeling, and analytics.
+This project has been developed during Baraa's SQL Data Warehouse Course. It focuses on building a modern data warehouse using SQL Server, encompassing key aspects such as ETL (Extract, Transform, Load) processes, data modeling, and analytics.
